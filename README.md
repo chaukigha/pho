@@ -1,6 +1,6 @@
 
 <style>
-  img{height:600px;
+  img{width:100%;}
 </style>
 <body onload="document.getElementById('b1').click()">
 <a id="b1" onclick="aa(1)"/>
