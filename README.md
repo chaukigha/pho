@@ -1,6 +1,7 @@
 
 <style>
-  img{width:100%;}
+  img{width:96%;
+  margin-left:2%;}
 </style>
 <body onload="document.getElementById('b1').click()">
 <a id="b1" onclick="aa(1)"/>
